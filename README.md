@@ -4,12 +4,14 @@
 
 This repository contains an analysis and predictive modeling of supercentenarians (individuals aged 110 and above). The project focuses on estimating the number of people reaching this age and predicting when new longevity records might be set in the future. The analysis leverages demographic data and statistical modeling techniques to generate insights into extreme human longevity.
 
-## Disclaimer
+## Disclaimer  
 
-This project was originally a **group assignment** for my **statistics course**. I have slightly **reorganized** and **refined** the code and report to improve clarity. However, the assignment had **constraints** on:
+This project was originally a **group assignment** for my **first university statistics course**. As it was my **first exposure to statistical modeling**, I recognize that the problem could have been handled differently using **more advanced models, better-grounded assumptions, or even machine learning techniques**. However, given the course's constraints, the methodology was based on the tools available at the time.  
 
-- The **model selection**, restricting the choices to a predefined set of models. Among them, the **probit model** seemed the most appropriate, but alternative models were not explored.
-- The **report length**, which was limited to only **two pages**, explaining the document's high density of information.
+Additionally, the assignment had the following limitations:  
+
+- **Model selection constraints**: The choices were limited to a predefined set of models. Among them, the **probit model** seemed the most appropriate, but alternative approaches (e.g., Bayesian modeling, survival analysis, or machine learning-based predictions) were not explored.  
+- **Report length constraints**: The final document was required to fit within **two pages**, leading to a dense summary of the findings and methodology.  
 
 ## Key Findings
 
